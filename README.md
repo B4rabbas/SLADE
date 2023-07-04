@@ -43,9 +43,6 @@ Step 1: Download and install the required libraries and tools
 First things first, we'll need to install all the libraries and tools required by SLADE and wxWidgets. Open a terminal window and type the following line:
 
 
-libwxgtk-media3.0-dev
-libwxgtk-webview3.0-dev
-
 ```
 sudo apt install -y build-essential  libgtk2.0-dev libglew-dev libfreeimage-dev libftgl-dev libfluidsynth-dev libsfml-dev libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgconf2-dev freeglut3-dev cmake libmodplug-dev git libwebkit2gtk-4.1-dev libwxgtk3.0-gtk3-dev libwxgtk-media3.0-gtk3-dev libcurl4-openssl-dev libwxgtk-webview3.0-gtk3-dev libbz2-dev liblua5*-dev libmpg123-dev
 ```
