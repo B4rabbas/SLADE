@@ -80,7 +80,7 @@ Finally, enter the following commands to compile SLADE (using CMake):
 ```
 cd slade/dist
 cmake .. -DUSE_WEBKIT_STARTPAGE=ON
-make -jn
+make -j4
 ```
 
 To speed up compilation if you have a multi-core processor, add -j X after make where X is the number of cores your CPU has, 'jn' arg will use all cores.
